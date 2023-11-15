@@ -17,4 +17,15 @@ Here are some ideas to get you started:
 
 # About Me
 
-<h4 align="center"><samp> Hi! Welcome to my About Me - I am training to be a Data consultant with Sparta Global and i LOVE Python!</samp></h4>
+<h4 align="center"><samp> Hi! Welcome to my About Me</samp></h4>
+
+<h4 align="center"><samp>I am training to be a Data consultant with Sparta Global and i LOVE Python!</samp></h4>
+
+<p align="center">
+  <img width="250" src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47s2yd5ra99fe0cswaxqljqm5b5z2gi8t7sr71js26&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</p>
+
+<code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
