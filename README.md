@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+
+<h4 align="center"><samp> Hi! Welcome to my About Me - I am training to be a Data consultant with Sparta Global and i LOVE Python!</samp></h4>
